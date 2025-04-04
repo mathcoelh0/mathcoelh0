@@ -21,3 +21,13 @@ Minha trajetória inclui:
 
 ## Compromisso com a Inovação e Segurança 🔐
 Estou comprometido em criar soluções que não apenas atendam às necessidades do mundo digital moderno, mas que também mantenham os mais altos padrões de segurança. Acredito que a segurança é fundamental para a confiança e a continuidade dos negócios, e estou sempre em busca de novas formas de proteger sistemas e dados.
+
+## GitHub Stats 📊
+Aqui estão algumas estatísticas do meu perfil do GitHub:
+
+![Matheus GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+
+## Linguagens Mais Usadas 🖥️
+As linguagens que mais utilizo em meus projetos:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
