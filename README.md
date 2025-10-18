@@ -1,6 +1,6 @@
 # Olá! Eu sou o Matheus 👋
 
-Sou um **Analista de Segurança da Informação**, **Desenvolvedor Web e de Games**, e um entusiasta da **Robótica (MRTduino)**. Atualmente, sou **graduando em Segurança da Informação**, com uma sólida base de conhecimentos em **Python**, **SQL**, **Redes de Computadores**, **Proteção de Endpoints**, **Linux** e **Inteligência Artificial**.
+Sou um **Estudante de Segurança da Informação**, **Desenvolvedor Web e de Games**, e um entusiasta da **Robótica (MRTduino)**. Atualmente, sou **graduando em Segurança da Informação**, com uma sólida base de conhecimentos em **Python**, **SQL**, **Redes de Computadores**, **Proteção de Endpoints**, **Linux** e **Inteligência Artificial**.
 
 Com quase uma década de experiência nas **Forças Armadas**, fui moldado por valores como **responsabilidade**, **abnegação**, **altruísmo**, **ética**, **liderança** e **foco em momentos críticos**. Tenho um compromisso firme em aplicar esses valores no mundo da tecnologia, criando soluções inovadoras e, acima de tudo, seguras.
 
