@@ -15,7 +15,8 @@ Com quase uma década de experiência nas **Forças Armadas**, fui moldado por v
 ## **Experiência Profissional 🌟**
 Minha trajetória inclui:
 - **Forças Armadas**: Onde aprendi a importância da **disciplina**, **liderança** e **tomada de decisões** em situações desafiadoras.
-- **Tecnologia**: Atuação em diversas frentes de TI, com foco em **segurança da informação** e **inovação tecnológica**.
+- **ExponecialCursos**: Monitor de Cursos para crianças e jovens, sendo eles: **Robótica; Programação de Games com Lua e Python; Desenvolvimento Web e Sistemas com Javascript, Python, HTML e CSS.**
+- **Antharys Tecnologia**: Instalação e manutenção de **infraestrutura** tecnológica; Suporte técnico e atendimento a usuários; Auxílio na criação de **políticas de segurança**; acesso e **backup**; Atuação com **bancos de dados**; programação e design de software; Apoio em **NOC/SOC** e **segurança da informação**; Aplicação de boas práticas de UX e usabilidade; Suporte e atendimento ao cliente.
 
 ## **Compromisso com a Inovação e Segurança 🔐**
 Estou comprometido em criar soluções que não apenas atendam às necessidades do mundo digital moderno, mas que também mantenham os mais altos padrões de segurança. Acredito que a **segurança** é fundamental para a confiança e a continuidade dos negócios, e estou sempre em busca de novas formas de proteger sistemas e dados.
