@@ -5,7 +5,7 @@
 
 ## 🔐 Sobre mim
 
-Com quase uma década de experiência nas Forças Armadas, trago valores como responsabilidade, disciplina, liderança e foco para o mundo da tecnologia.
+Com quase uma década de experiência nos Fuzileiros Navais, trago valores como responsabilidade, disciplina, liderança e foco para o mundo da tecnologia.
 
 Atualmente, trabalho com soluções corporativas de segurança e automação, sempre buscando criar ambientes digitais mais seguros e eficientes.
 
