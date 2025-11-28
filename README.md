@@ -40,12 +40,10 @@ Atualmente, trabalho com soluções corporativas de segurança e automação, se
 - 🤖 **Robótica**: Trabalhos com plataformas como MRTduino
 - 📊 **Bancos de Dados**: SQL e gestão de dados
 
-## 📊 Estatísticas do GitHub
+## 📊 Resumo do Perfil
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathcoelh0&theme=github_dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathcoelh0&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathcoelh0&layout=compact&theme=dark)
-
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mathcoelh0&theme=github_dark)
 ## 🎓 Formação
 
 - 🎓 **Graduação em Segurança da Informação** (em andamento)
