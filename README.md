@@ -9,27 +9,7 @@ Sou **Estagiário em Segurança da Informação na Editora Globo** e graduando e
 
 Atualmente, trabalho com soluções corporativas de segurança e automação, sempre buscando criar ambientes digitais mais seguros e eficientes.
 
-## 💼 Experiência Profissional
 
-**🔹 Editora Globo** - Estagiário em Segurança da Informação
-- Atuação com ferramentas de segurança corporativa
-- Desenvolvimento de automações para processos de segurança
-- Monitoramento e resposta a incidentes
-
-**🔹 Antharys Tecnologia** - Suporte e Infraestrutura
-- Instalação e manutenção de infraestrutura tecnológica
-- Suporte técnico e atendimento a usuários
-- Apoio em NOC/SOC e segurança da informação
-- Criação de políticas de segurança, acesso e backup
-
-**🔹 ExponecialCursos** - Monitor de Cursos
-- Robótica e programação para crianças e jovens
-- Desenvolvimento Web (HTML, CSS, JavaScript)
-- Python e Lua para games
-
-**🔹 Forças Armadas** - Quase uma década de serviço
-- Liderança e tomada de decisões em situações críticas
-- Disciplina e foco em momentos desafiadores
 
 ## 🛠️ Stack Tecnológica
 
