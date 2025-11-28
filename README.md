@@ -5,7 +5,7 @@
 
 ## 🔐 Sobre mim
 
-Sou **Estagiário em Segurança da Informação na Editora Globo** e graduando em Segurança da Informação. Com quase uma década de experiência nas Forças Armadas, trago valores como responsabilidade, disciplina, liderança e foco para o mundo da tecnologia.
+Com quase uma década de experiência nas Forças Armadas, trago valores como responsabilidade, disciplina, liderança e foco para o mundo da tecnologia.
 
 Atualmente, trabalho com soluções corporativas de segurança e automação, sempre buscando criar ambientes digitais mais seguros e eficientes.
 
