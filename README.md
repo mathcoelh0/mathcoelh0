@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:003300,100:00ff41&height=220&section=header&text=%5B%20MATHEUS%20COELHO%20%5D&fontSize=48&fontColor=00ff41&animation=fadeIn&fontAlignY=40&desc=%24%20whoami%20--%20Security%20Engineer%20%7C%20Navy%20Veteran%20%7C%20Threat%20Hunter&descAlignY=62&descSize=14&descColor=00cc33" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:003300,100:00ff41&height=220&section=header&text=%5B%20MATHEUS%20COELHO%20%5D&fontSize=48&fontColor=00ff41&animation=fadeIn&fontAlignY=40&desc=%24%20whoami%20--%20Engenheiro%20de%20Seguranca%20%7C%20Veterano%20Naval%20%7C%20Threat%20Hunter&descAlignY=62&descSize=14&descColor=00cc33" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=650&lines=%3E+Initializing+security+protocols...;%3E+Endpoint+Protection+%5BACTIVE%5D+%E2%9C%93;%3E+Threat+Intelligence+%5BMONITORING%5D+%E2%9C%93;%3E+Firewall+Rules+%5BENFORCED%5D+%E2%9C%93;%3E+System+Hardened.+Intruders+will+be+detected.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=650&lines=%3E+Inicializando+protocolos+de+seguranca...;%3E+Endpoint+Protection+%5BATIVO%5D+%E2%9C%93;%3E+Threat+Intelligence+%5BMONITORANDO%5D+%E2%9C%93;%3E+Regras+de+Firewall+%5BATIVAS%5D+%E2%9C%93;%3E+Sistema+protegido.+Invasores+serao+detectados.)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/_%20LinkedIn-00ff41?style=for-the-badge&logo=linkedin&logoColor=0d0d0d)](https://www.linkedin.com/in/matheus-c-38396a2bb/)
 [![GitHub](https://img.shields.io/badge/_%20GitHub-00ff41?style=for-the-badge&logo=github&logoColor=0d0d0d)](https://github.com/mathcoelh0)
-![Visits](https://komarev.com/ghpvc/?username=mathcoelh0&color=00ff41&style=for-the-badge&label=CONNECTIONS)
+![Visitas](https://komarev.com/ghpvc/?username=mathcoelh0&color=00ff41&style=for-the-badge&label=VISITAS)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ```bash
 ┌──(matheus㉿sec-ops)-[~]
-└─$ cat whoami.txt
+└─$ cat quem-sou-eu.txt
 
   ██████╗██╗   ██╗██████╗ ███████╗██████╗ ███████╗███████╗ ██████╗
  ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔════╝██╔════╝██╔════╝
@@ -25,55 +25,55 @@
  ╚██████╗   ██║   ██████╔╝███████╗██║  ██║███████║███████╗╚██████╗
   ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝
 
-  NAME     : Matheus Coelho
-  ROLE     : Security Engineer / SOC Analyst
-  LOCATION : Brasil 🇧🇷
-  CLEARANCE: Navy Veteran (~10 years) ⚓
-  STATUS   : [ONLINE] — Hunting threats since day one
-  MISSION  : Protect. Detect. Respond. Automate.
+  NOME     : Matheus Coelho
+  CARGO    : Engenheiro de Segurança / Analista SOC
+  LOCAL    : Brasil 🇧🇷
+  ORIGEM   : Fuzileiros Navais (~10 anos de serviço) ⚓
+  STATUS   : [ONLINE] — Caçando ameaças desde o primeiro dia
+  MISSÃO   : Proteger. Detectar. Responder. Automatizar.
 ```
 
 ---
 
-## `$ cat threat_profile.yml`
+## `$ cat perfil-de-ameaca.yml`
 
 ```yaml
-identity:
-  name: "Matheus Coelho"
-  origin: "Fuzileiros Navais → Cybersecurity"
-  philosophy: "Security is not a product. It's a continuous process."
+identidade:
+  nome: "Matheus Coelho"
+  origem: "Fuzileiros Navais → Cibersegurança"
+  filosofia: "Segurança não é um produto. É um processo contínuo."
 
-specializations:
+especializações:
   - Endpoint Detection & Response (EDR)
-  - Network Security & Firewall Management
-  - Security Automation with Python
-  - Linux Hardening & Server Administration
-  - Log Analysis & Threat Detection
-  - Incident Response
+  - Segurança de Redes e Gerenciamento de Firewall
+  - Automação de Segurança com Python
+  - Hardening de Linux e Administração de Servidores
+  - Análise de Logs e Detecção de Ameaças
+  - Resposta a Incidentes
 
-currently:
-  studying:    ["Threat Intelligence", "Cloud Security", "Offensive Security"]
-  building:    ["Security automation tools", "Python scripts for threat analysis"]
-  mindset:     "Red team thinking. Blue team execution."
+atualmente:
+  estudando:   ["Threat Intelligence", "Cloud Security", "Segurança Ofensiva"]
+  construindo: ["Ferramentas de automação de segurança", "Scripts Python para análise de ameaças"]
+  mentalidade: "Raciocínio de Red Team. Execução de Blue Team."
 
-threat_level_to_attackers: CRITICAL ☠️
+nivel_de_ameaca_para_invasores: CRÍTICO ☠️
 ```
 
 ---
 
 ## `$ nmap --scan-tools matheus.coelho`
 
-### 🔴 Security Arsenal
+### 🔴 Arsenal de Segurança
 
 <div align="center">
 
-| 🛡️ Endpoint Protection | 🔥 Network Defense | 🎯 Threat Detection |
+| 🛡️ Proteção de Endpoints | 🔥 Defesa de Rede | 🎯 Detecção de Ameaças |
 |:---:|:---:|:---:|
 | ![CrowdStrike](https://img.shields.io/badge/CrowdStrike_Falcon-CC0000?style=for-the-badge&logo=crowdstrike&logoColor=white) | ![Palo Alto](https://img.shields.io/badge/Palo_Alto_NGFW-00CC66?style=for-the-badge&logo=paloaltonetworks&logoColor=white) | ![Trend Micro](https://img.shields.io/badge/Trend_Micro-D71921?style=for-the-badge&logo=trendmicro&logoColor=white) |
 
 </div>
 
-### 🟢 Offensive & Defensive Tools
+### 🟢 Ferramentas Ofensivas e Defensivas
 
 <div align="center">
 
@@ -85,7 +85,7 @@ threat_level_to_attackers: CRITICAL ☠️
 
 </div>
 
-### 🔵 Core Stack
+### 🔵 Stack Principal
 
 <div align="center">
 
@@ -100,25 +100,25 @@ threat_level_to_attackers: CRITICAL ☠️
 
 ---
 
-## `$ ls -la /skills/`
+## `$ ls -la /habilidades/`
 
 ```
 drwxr-xr-x  BLUE TEAM
-  ├── endpoint_protection/     [CrowdStrike Falcon, Trend Micro]
-  ├── network_defense/         [Palo Alto NGFW, VPNs, Firewall Rules]
-  ├── log_analysis/            [SIEM, threat correlation, anomaly detection]
-  ├── linux_hardening/         [server config, permissions, kernel tuning]
-  └── incident_response/       [detection, containment, eradication]
+  ├── protecao_endpoints/      [CrowdStrike Falcon, Trend Micro]
+  ├── defesa_de_rede/          [Palo Alto NGFW, VPNs, regras de Firewall]
+  ├── analise_de_logs/         [SIEM, correlação de ameaças, detecção de anomalias]
+  ├── hardening_linux/         [configuração de servidores, permissões, kernel]
+  └── resposta_a_incidentes/   [detecção, contenção, erradicação]
 
-drwxr-xr-x  AUTOMATION
-  ├── python_scripts/          [log parsers, threat scanners, report generators]
-  ├── bash_automation/         [system tasks, monitoring, alerting]
-  └── data_analysis/           [SQL queries, security dashboards]
+drwxr-xr-x  AUTOMAÇÃO
+  ├── scripts_python/          [parsers de log, scanners de ameaças, relatórios]
+  ├── automacao_bash/          [tarefas de sistema, monitoramento, alertas]
+  └── analise_de_dados/        [consultas SQL, dashboards de segurança]
 
-drwxr-xr-x  EMERGING
-  ├── ai_security/             [AI applied to threat detection]
-  ├── cloud_security/          [in progress... 🔄]
-  └── robotics/                [MRTduino platform]
+drwxr-xr-x  TECNOLOGIAS EMERGENTES
+  ├── ia_em_seguranca/         [IA aplicada à detecção de ameaças]
+  ├── cloud_security/          [em andamento... 🔄]
+  └── robotica/                [plataforma MRTduino]
 ```
 
 ---
@@ -140,27 +140,27 @@ drwxr-xr-x  EMERGING
 
 ---
 
-## `$ sudo cat /etc/certs/education.conf`
+## `$ sudo cat /etc/formacao.conf`
 
 ```
-[ACADEMIC]
-  Course   = Graduação em Segurança da Informação
-  Status   = IN PROGRESS ◉
-  Focus    = Redes, Endpoints, Criptografia, Linux, IA
+[ACADÊMICO]
+  Curso    = Graduação em Segurança da Informação
+  Status   = EM ANDAMENTO ◉
+  Foco     = Redes, Endpoints, Criptografia, Linux, IA
 
-[MILITARY]
-  Branch   = Corpo de Fuzileiros Navais — Marinha do Brasil
-  Service  = ~10 anos
-  Skills   = Liderança, Gestão de Crises, Tomada de Decisão sob Pressão
+[MILITAR]
+  Corpo    = Fuzileiros Navais — Marinha do Brasil
+  Serviço  = ~10 anos
+  Ganhos   = Liderança, Gestão de Crises, Tomada de Decisão sob Pressão
 
-[ONGOING]
-  Mode     = Always learning. Never stopping.
-  Next     = Offensive Security | Cloud Security | Threat Intelligence
+[CONTÍNUO]
+  Modo     = Sempre aprendendo. Nunca parando.
+  Próximo  = Segurança Ofensiva | Cloud Security | Threat Intelligence
 ```
 
 ---
 
-## 🏆 `$ sudo cat /var/log/achievements.log`
+## 🏆 `$ sudo cat /var/log/conquistas.log`
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mathcoelh0&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1" />
@@ -172,25 +172,25 @@ drwxr-xr-x  EMERGING
 
 ```
 PING matheus.coelho (linkedin.com/in/matheus-c-38396a2bb) 56 bytes
-64 bytes: seq=1 ttl=64 time=fast ms — [OPEN TO OPPORTUNITIES]
-64 bytes: seq=2 ttl=64 time=fast ms — [COLLABORATIONS WELCOME]
-64 bytes: seq=3 ttl=64 time=fast ms — [SECURITY DISCUSSIONS ALWAYS]
+64 bytes: seq=1 ttl=64 tempo=rápido ms — [ABERTO A OPORTUNIDADES]
+64 bytes: seq=2 ttl=64 tempo=rápido ms — [COLABORAÇÕES SÃO BEM-VINDAS]
+64 bytes: seq=3 ttl=64 tempo=rápido ms — [BATE-PAPOS SOBRE SEGURANÇA SEMPRE]
 
---- matheus.coelho ping statistics ---
-Connection established. Awaiting your packet. 📡
+--- estatísticas de ping matheus.coelho ---
+Conexão estabelecida. Aguardando seu pacote. 📡
 ```
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/_%20CONNECT_ON_LINKEDIN-00ff41?style=for-the-badge&logo=linkedin&logoColor=0d0d0d)](https://www.linkedin.com/in/matheus-c-38396a2bb/)
-[![GitHub](https://img.shields.io/badge/_%20FOLLOW_ON_GITHUB-00ff41?style=for-the-badge&logo=github&logoColor=0d0d0d)](https://github.com/mathcoelh0)
+[![LinkedIn](https://img.shields.io/badge/_%20CONECTAR_NO_LINKEDIN-00ff41?style=for-the-badge&logo=linkedin&logoColor=0d0d0d)](https://www.linkedin.com/in/matheus-c-38396a2bb/)
+[![GitHub](https://img.shields.io/badge/_%20SEGUIR_NO_GITHUB-00ff41?style=for-the-badge&logo=github&logoColor=0d0d0d)](https://github.com/mathcoelh0)
 
 <br/>
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  "Security is not a product, but a continuous process of         ║
-║   vigilance and improvement."                    — Matheus C.   ║
+║  "Segurança não é um produto, mas um processo contínuo de        ║
+║   vigilância e melhoria."                        — Matheus C.   ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
