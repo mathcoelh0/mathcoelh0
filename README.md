@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:003300,100:00ff41&height=220&section=header&text=%5B%20MATHEUS%20COELHO%20%5D&fontSize=48&fontColor=00ff41&animation=fadeIn&fontAlignY=40&desc=%24%20whoami%20--%20Engenheiro%20de%20Seguranca%20%7C%20Veterano%20Naval%20%7C%20Threat%20Hunter&descAlignY=62&descSize=14&descColor=00cc33" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:003300,100:00ff41&height=220&section=header&text=%5B%20MATHEUS%20%5D&fontSize=48&fontColor=00ff41&animation=fadeIn&fontAlignY=40&desc=%24%20whoami%20--%20Engenheiro%20de%20Seguranca%20%7C%20Veterano%20Naval%20%7C%20Threat%20Hunter&descAlignY=62&descSize=14&descColor=00cc33" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=650&lines=%3E+Inicializando+protocolos+de+seguranca...;%3E+Endpoint+Protection+%5BATIVO%5D+%E2%9C%93;%3E+Threat+Intelligence+%5BMONITORANDO%5D+%E2%9C%93;%3E+Regras+de+Firewall+%5BATIVAS%5D+%E2%9C%93;%3E+Sistema+protegido.+Invasores+serao+detectados.)](https://git.io/typing-svg)
 
