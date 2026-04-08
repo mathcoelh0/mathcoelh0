@@ -26,7 +26,7 @@
   ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝
 
   NOME     : Matheus Coelho
-  CARGO    : Analista de Segunça da Informação
+  CARGO    : Estagiário de Segunça da Informação
   LOCAL    : Brasil 🇧🇷
   ORIGEM   : Fuzileiros Navais (~10 anos de serviço) ⚓
   STATUS   : [ONLINE] — Caçando ameaças desde o primeiro dia
