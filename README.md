@@ -37,10 +37,9 @@
 ## `> whoami` &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22">
 
 ```yaml
-name:     Matheus Coelho
+name:     Matheus 
 location: Rio de Janeiro, BR 🇧🇷
 role:     Web Developer & Security Analyst
-company:  Editora Globo
 edu:      Segurança da Informação (em andamento)
 military: Ex-Fuzileiro Naval ⚓ (~10 anos)
 motto:    "O esforço supera o talento."
